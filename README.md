@@ -2,7 +2,7 @@
 👋 Hi, I’m @teamrit, I love programming
 
 ```mermaid
-graph MySkills;
+graph TD;
     A(My Skills)-->B(Javascript);
     A-->C(C#);
     A-->D(GitHub Actions);
