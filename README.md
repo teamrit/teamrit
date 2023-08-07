@@ -11,3 +11,18 @@ graph TD;
     A-->G(CI/CD);
     A-->H(SQL);
 ```
+```mermaid
+graph TD;
+    A([My Experience])--"Co-op"-->B(["Front-End Developer
+@Bluefin Enterprises
+2018"]);
+    B--"Co-op"-->C(["IT Operations Analyst
+@BMO Financial Group
+2019"]);
+    C--"Fresh Graduate Job"-->D(["Software Engineer
+@CanadaHelps
+2019-2021"]);
+    D-->E(["Senior Software Engineer
+@GoDaddy
+2021-2023"]);
+```
