@@ -2,8 +2,8 @@
 👋 Hi, I’m @teamrit, I love programming
 
 ```mermaid
-graph My Skills;
-    A(Amrit)-->B(Javascript);
+graph MySkills;
+    A(My Skills)-->B(Javascript);
     A-->C(C#);
     A-->D(GitHub Actions);
     A-->E(React);
